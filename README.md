@@ -16,7 +16,7 @@ The focus of this project was **planning, managing, and delivering a clickable p
 
 - Comprehensive documentation of business processes and UX  
 
-> Note: This project was part of a course assignment. The app itself is a prototype; the evaluation focuses on the **quality of agile project management**.
+> Note: This project was part of a course assignment. The app itself is a prototype; 
 
 ---
 
