@@ -1,7 +1,8 @@
-# Design and implementation of a mobile App – Case Study
+# Design and implementation of a mobile App 
 
-**Course:** Agile Management in Virtual Project Environments / R&D PM  
-**Team Size:** 10 Students  
+**Project:** Agile Management in Virtual Project Environments 
+**Project Role:** Scrm Master 
+**Team Size:** 10 Cross Funtional Team Members 
 **Project Duration:** 27-10-2023 – 12-01-2024 
 
 ---
